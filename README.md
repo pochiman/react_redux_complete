@@ -1,1 +1,1 @@
-# react_redux_complete
+# react_redux_complete_playlist
